@@ -19,9 +19,13 @@ pip install -r requirements.txt
 python main.py
 ```
 📌 Features
+
 ✅ Reads & transforms JSON data
+
 ✅ Renames and restructures fields
+
 ✅ Converts timestamps to readable format
+
 ✅ Saves output to client_output.json
 
 🛠️ Running Tests
